@@ -50,6 +50,7 @@ const styles = {
     flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
+    backgroundColor: '#10a7e8',
   },
   cardContainer: {
     display: 'flex',

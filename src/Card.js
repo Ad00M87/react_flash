@@ -43,6 +43,7 @@ const styles = {
     padding: '10px',
     border: '2px solid black',
     borderRadius: '5px',
+    backgroundColor: '#f1833d'
   }
 }
 
